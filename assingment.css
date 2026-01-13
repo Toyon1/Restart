@@ -1,0 +1,131 @@
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+
+}
+.logo{
+      font-weight: 900;
+  font-style: normal;
+  font-size: 34px;
+  color: #4E47FF;
+
+}
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+.bg-img {
+    background-image: url(hero-bg.png);
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 698px;
+    margin-bottom: 134px;
+}
+
+.btn-style {  
+  list-style: none;
+  background-color: #4E47FF;
+    text-decoration: none;
+    height: 48px;
+    width: 132px;
+    padding: auto;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+.welcome {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+    height: 151px;
+    width: 1140px;
+    margin: 0px 150px 158px 150px;
+}
+.banner-1 {
+  text-align: center;
+    gap: 37px;
+    width: 905px;
+    height: 237px;
+    margin:0px 267.5px 152px 267.5px;
+}
+.font-banner-1 {
+    font-size: 65px;
+    text-align: center;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: 37px;
+}
+.banner-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+    width: 1140px;
+    margin: 0px 141px 116px 159px;
+}
+.banner-2-heading {
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: 23px;
+    height: 49px;
+    width: 517px;
+}
+.font-banner-2 {
+    font-size: 24px;
+    font-weight: normal;
+    color: #252432;
+    margin-bottom: 23px;
+    height: 60px;
+    width: 517px;
+    opacity: 50%;
+}
+.first-img {
+    border-radius: 48px;
+    width: 403px;
+    height: 328px;
+}
+.banner-3 {
+    max-width: 1140PX;
+    height: 306px;
+    margin: 0px 141px 137px 159px;
+    background-color: #6a65f626;
+    padding: 80px 50px;
+    border-radius: 24px;
+    gap: 10px;
+    text-align: center;
+}
+.HEADLINE-1 {
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: 40px;
+}
+.banner-3-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 142px 50px 142px;
+}
+.plus-sign {
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+    margin-bottom: 0px;
+}
+.text-align{
+    font-size: 20px;
+    font-weight: normal;
+    color: #000000;
+    opacity: 50%;
+    margin-top: 0px;
+}
